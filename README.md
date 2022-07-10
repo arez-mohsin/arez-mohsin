@@ -1,2 +1,1 @@
-I'm Only Coders But Not Developer 🚬💔
-
+Fuck The Developers!
