@@ -1,11 +1,11 @@
 <h1>Hi, Im Arez Mohssin</h1>
 <h4>Im Full Stack Developer</h4>
 
- <styles>
+ <style>
   li{
     font-weight:700;
   }
- </styles>
+ </style>
 
 <div>
  <p>I have more than 3 years of experience with React, React Native and Firebase.</p>
