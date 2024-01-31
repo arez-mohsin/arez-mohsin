@@ -3,7 +3,7 @@
 <div>
  <p>Hi I have more than 3 years of experience with React, React Native and Firebase.</p>
 
-<h5>Skills:</h5>
+<h5>My Skills:</h5>
    <!-- This is my skills. -->
    <h6>Website:</h6>
    <ul>
