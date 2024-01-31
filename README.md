@@ -1,7 +1,8 @@
-<h1>Im Full Stack Developer</h1>
+<h1>Hi, Im Arez Mohssin</h1>
+<h4>Im Full Stack Developer</h4>
 
 <div>
- <p>Hi I have more than 3 years of experience with React, React Native and Firebase.</p>
+ <p>I have more than 3 years of experience with React, React Native and Firebase.</p>
 
 <h5>My Skills:</h5>
    <!-- This is my skills. -->
