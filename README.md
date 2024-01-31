@@ -23,7 +23,7 @@
     <li>NodeJS</li>
     <li>ExpressJS</li>
    </ul>
-   <h8>Databases:</h8>
+   <h6>Databases:</h6>
    <ul>
     <li>MongoDB</li>
     <li>Firebase</li>
