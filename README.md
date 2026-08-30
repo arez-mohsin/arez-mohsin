@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer building reliable web, mobile, and backend products.
 
-I’m a full-stack developer with **3+ years of experience** building modern applications with React, React Native, Node.js, and related technologies.
+I’m a full-stack developer with **13+ years of experience** building modern applications with React, React Native, Node.js, and related technologies.
 
 I enjoy turning ideas and business requirements into software that is clean, practical, maintainable, and ready to grow. My work spans **web applications, SaaS platforms, business systems, mobile apps, APIs, dashboards, and backend services**.
 
