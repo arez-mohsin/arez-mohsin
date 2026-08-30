@@ -11,18 +11,19 @@ I enjoy turning ideas and business requirements into software that is clean, pra
 - **Full-stack web applications** — responsive, modern interfaces backed by reliable server-side systems.
 - **SaaS & business software** — dashboards, management systems, internal tools, and workflow-driven products.
 - **Cross-platform mobile apps** — applications built with React Native, Expo, and Flutter.
-- **Backend APIs & services** — structured APIs, business logic, authentication flows, and database integrations.
+- **Backend APIs & services** — structured APIs, business logic, authentication flows, real-time features, and database integrations.
 - **Existing product improvements** — new features, bug fixes, refactoring, performance improvements, and ongoing maintenance.
 
 ## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| **Frontend** | React.js, Vite, HTML, CSS, JavaScript |
+| **Frontend** | React.js, Vite, Tailwind CSS, TypeScript, JavaScript, HTML, CSS |
 | **Mobile** | React Native, Expo, Flutter |
-| **Backend** | Node.js, Express.js |
-| **Databases & Services** | MongoDB, Firebase |
-| **Development** | Git, GitHub, REST APIs |
+| **Backend** | Node.js, Express.js, REST APIs, Socket.IO, JWT |
+| **Databases & ORM** | PostgreSQL, MongoDB, Firebase, Prisma |
+| **Testing & Quality** | Playwright, Vitest, Testing Library, Supertest, ESLint |
+| **Development** | Git, GitHub, npm, API Integration |
 
 ## How I Approach Development
 
