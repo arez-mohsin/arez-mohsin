@@ -1,34 +1,49 @@
-<h1>Hi, Im Arez Mohssin</h1>
-<h4>Im Full Stack Developer</h4>
+# Hi, I'm Arez Mohssin
 
- 
-<div>
- <p>I have more than 3 years of experience with React, React Native and Firebase.</p>
+### Full-Stack Developer building reliable web, mobile, and backend products.
 
-<h5>My Skills:</h5>
-   <!-- This is my skills. -->
-   <h6>Website:</h6>
-   <ul>
-    <li>ReactJS</li>
-    <li>Vite</li>
-   </ul>
-   <h6>App:</h6>
+I’m a full-stack developer with **3+ years of experience** building modern applications with React, React Native, Node.js, and related technologies.
 
-   <h6>Application:</h6>
-   <ul>
-    <li>React Native & Expo</li>
-    <li>Flutter</li>
-   </ul>
+I enjoy turning ideas and business requirements into software that is clean, practical, maintainable, and ready to grow. My work spans **web applications, SaaS platforms, business systems, mobile apps, APIs, dashboards, and backend services**.
 
-   <h6>Backend:</h6>
-   <ul>
-    <li>NodeJS</li>
-    <li>ExpressJS</li>
-   </ul>
-   <h6>Databases:</h6>
-   <ul>
-    <li>MongoDB</li>
-    <li>Firebase</li>
-   </ul>
+## What I Build
 
-</div>
+- **Full-stack web applications** — responsive, modern interfaces backed by reliable server-side systems.
+- **SaaS & business software** — dashboards, management systems, internal tools, and workflow-driven products.
+- **Cross-platform mobile apps** — applications built with React Native, Expo, and Flutter.
+- **Backend APIs & services** — structured APIs, business logic, authentication flows, and database integrations.
+- **Existing product improvements** — new features, bug fixes, refactoring, performance improvements, and ongoing maintenance.
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | React.js, Vite, HTML, CSS, JavaScript |
+| **Mobile** | React Native, Expo, Flutter |
+| **Backend** | Node.js, Express.js |
+| **Databases & Services** | MongoDB, Firebase |
+| **Development** | Git, GitHub, REST APIs |
+
+## How I Approach Development
+
+I care about more than simply making a feature work. I aim to build software that is understandable, maintainable, and dependable over time.
+
+My priorities include:
+
+- Clean and organized code
+- Thoughtful user experience
+- Reliable backend and API design
+- Maintainable project structure
+- Careful debugging and testing
+- Clear communication throughout development
+
+## Freelance Work
+
+I’m open to freelance projects involving **web applications, SaaS products, business management systems, mobile apps, backend development, and existing-product improvements**.
+
+If you’re looking for a developer who can understand the product as well as the code behind it, I’d be happy to discuss your project.
+
+---
+
+**Arez Mohssin**  
+Full-Stack Developer
