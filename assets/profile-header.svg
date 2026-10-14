@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Wshyar — Full-Stack Developer</title>
+  <desc id="desc">Minimal midnight-blue profile banner with an abstract technical motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0C1423"/>
+      <stop offset="100%" stop-color="#152438"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7CAEFF"/>
+      <stop offset="100%" stop-color="#A9D0FF"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#8DB5DF" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect x="790" y="0" width="490" height="340" fill="url(#grid)"/>
+  <path d="M0 0H1280" stroke="#8DA6C7" stroke-opacity=".18"/>
+  <path d="M0 339H1280" stroke="#8DA6C7" stroke-opacity=".18"/>
+  <rect x="68" y="64" width="39" height="4" rx="2" fill="url(#accent)"/>
+  <text x="68" y="144" font-size="57" font-weight="700" letter-spacing="1.8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" fill="#F4F7FC">Ahmed Wshyar</text>
+  <text x="69" y="191" font-size="19" font-weight="600" letter-spacing="4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" fill="#95BCF6">FULL-STACK DEVELOPER</text>
+  <path d="M69 222H556" stroke="#B6C9E3" stroke-opacity=".30" stroke-width="1"/>
+  <text x="69" y="257" font-size="17" letter-spacing=".7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" fill="#C2CDDD">Thoughtful interfaces. Practical software.</text>
+  <rect x="886" y="59" width="284" height="222" rx="15" fill="#172841" stroke="#719ACA" stroke-opacity=".30" stroke-width="1.2"/>
+  <rect x="909" y="82" width="238" height="176" rx="8" fill="none" stroke="#9BB9DB" stroke-opacity=".24" stroke-width="1"/>
+  <path d="M909 120H1147M909 220H1147M968 82V258M1088 82V258" fill="none" stroke="#9BB9DB" stroke-opacity=".10"/>
+  <path d="M937 214L973 132L1001 192L1022 150L1056 214" fill="none" stroke="url(#accent)" stroke-opacity=".88" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1065 132H1119V214" fill="none" stroke="#D1E0F4" stroke-opacity=".85" stroke-width="4" stroke-linejoin="round"/>
+  <circle cx="1170" cy="281" r="4" fill="#8AB7FF"/>
+  <text x="1170" y="306" text-anchor="end" font-size="11" letter-spacing="2.6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" fill="#8EABC9">BUILD / IMPROVE / SHIP</text>
+</svg>
