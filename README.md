@@ -1,56 +1,55 @@
-# Hi, I'm Arez Mohssin
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Ahmed Wshyar — Full-Stack Developer" />
+</p>
 
-### Full-Stack Developer building reliable web, mobile, and backend products.
+I’m **Ahmed Wshyar**, a full-stack developer who enjoys turning ideas into clear, useful, well-crafted digital products.
 
-I’m a full-stack developer with **13+ years of experience** building modern applications with React, React Native, Node.js, and related technologies.
+I work on websites, web applications, business tools, and the systems behind them. My focus is straightforward: **thoughtful design, dependable functionality, and software people enjoy using.**
 
-I enjoy turning ideas and business requirements into software that is clean, practical, maintainable, and ready to grow. My work spans **web applications, SaaS platforms, business systems, mobile apps, APIs, dashboards, and backend services**.
+## Selected work
 
-## What I Build
+### Real Estate Website · Independent Demo
 
-- **Full-stack web applications** — responsive, modern interfaces backed by reliable server-side systems.
-- **SaaS & business software** — dashboards, management systems, internal tools, and workflow-driven products.
-- **Cross-platform mobile apps** — applications built with React Native, Expo, and Flutter.
-- **Backend APIs & services** — structured APIs, business logic, authentication flows, real-time features, and database integrations.
-- **Existing product improvements** — new features, bug fixes, refactoring, performance improvements, and ongoing maintenance.
+A responsive real-estate website concept built around strong property presentation, clean navigation, and right-to-left layout support.
 
-## Tech Stack
+**Focus:** Responsive interfaces · UI/UX · RTL support · Web development
 
-| Area | Technologies |
-| --- | --- |
-| **Frontend** | React.js, Vite, Tailwind CSS, TypeScript, JavaScript, HTML, CSS |
-| **Mobile** | React Native, Expo, Flutter |
-| **Backend** | Node.js, Express.js, REST APIs, Socket.IO, JWT |
-| **Databases & ORM** | PostgreSQL, MongoDB, Firebase, Prisma |
-| **Testing & Quality** | Playwright, Vitest, Testing Library, Supertest, ESLint |
-| **Development** | Git, GitHub, npm, API Integration |
+**Live demo:** `ADD_LIVE_DEMO_URL` &nbsp; | &nbsp; **Source code:** `ADD_PUBLIC_REPO_URL`
 
-## How I Approach Development
+<!-- Replace the two project link placeholders above with verified public URLs. Do not link to private code. -->
 
-I care about more than simply making a feature work. I aim to build software that is understandable, maintainable, and dependable over time.
+*More selected projects will be featured here as they are ready to share.*
 
-My priorities include:
+## What I build
 
-- Clean and organized code
-- Thoughtful user experience
-- Reliable backend and API design
-- Maintainable project structure
-- Careful debugging and testing
-- Clear communication throughout development
+- **Modern websites and web apps** — responsive interfaces with attention to detail.
+- **Business software** — dashboards, workflows, and useful internal tools.
+- **Backend services** — APIs, integrations, and application logic.
+- **Product improvements** — usability, accessibility, performance, and maintainability.
 
-## Freelance Work
+## Tools I work with
 
-I’m open to freelance projects involving **web applications, SaaS products, business management systems, mobile apps, backend development, and existing-product improvements**.
+| | |
+| :-- | :-- |
+| **Frontend** | React · TypeScript · JavaScript · Tailwind CSS |
+| **Backend** | Node.js · Express · REST APIs |
+| **Data** | PostgreSQL · MongoDB · Firebase · Prisma |
+| **Workflow** | Git · GitHub · Vite · Playwright |
 
-If you’re looking for a developer who can understand the product as well as the code behind it, I’d be happy to discuss your project.
+## How I approach my work
+
+I care about more than getting a feature to run. I aim for interfaces that feel considered, code that is understandable, and solutions that fit the actual problem — without unnecessary complexity.
+
+## Let’s build something useful
+
+I’m open to **freelance web development, business software projects, and collaborations**.
+
+[GitHub](https://github.com/arez-mohsin) · [Facebook](https://www.facebook.com/ahmed.wshyar.2025/)
+
+**Portfolio:** `ADD_PORTFOLIO_URL` &nbsp; | &nbsp; **Email:** `ADD_PROFESSIONAL_EMAIL`
+
+<!-- Add your real portfolio URL and professional public contact email when available. -->
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-
----
-[![](https://komarev.com/ghpvc/?username=arezmohssin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**Arez Mohssin**  
-Full-Stack Developer
+<sub>Ahmed Wshyar · Full-Stack Developer</sub>
